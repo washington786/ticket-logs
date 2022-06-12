@@ -1,0 +1,19 @@
+.content-con{
+    height: 80vh !important;
+    background-color: #EFE5E8;
+    display: flex;
+    justify-content: flex-start;
+    align-items:flex-start;
+    position: relative;
+}
+
+.content-col{
+    padding: 4rem 2rem;
+    width: 100%!important;
+    display: flex;
+}
+
+.cont-con2{
+    padding-top: 2.5rem;
+}
+

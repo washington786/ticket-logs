@@ -1,0 +1,55 @@
+.nav-links{
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 16;
+}
+
+.nav-bar-to-style{
+    display: flex;
+    max-width: 350px!important;
+    width: 100%!important;
+}
+
+h3{
+    font-size: 16px;
+}
+
+hr{
+    height: 5px;
+    width: 100%!important;
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+.links{
+    text-transform: capitalize;
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.7);
+    font-size: 14px;
+    width: 100%!important;
+    display: flex;
+    max-width: 300px!important;
+}
+
+#link1{
+    margin-right: 10px;
+    font-size: 16px;
+}
+#link2{
+    font-size: 16px;
+    /* background-color: yellow; */
+    /* width: 100px!important; */
+}
+
+.clientNavBtn{
+    border: 1px solid red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logout-btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 100%!important;
+}
