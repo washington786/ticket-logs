@@ -20,7 +20,7 @@ const CDashboard = () => {
                     <h5 className="user-name">Hy Daniel Washington</h5>
                     <span className="cSubs">Please click on the button below to create a ticket log for support.</span>
 
-                    <Button variant="danger" type="submit" className="ticket-login" onClick={handleModalPopUp}>Log A Ticket</Button>
+                    <Button variant="danger" type="submit" className="ticket-login" onClick={handleModalPopUp}>Log a ticket</Button>
 
                     <img src={Img2} alt="vector-img" className="vector-img" />
                 </div>
